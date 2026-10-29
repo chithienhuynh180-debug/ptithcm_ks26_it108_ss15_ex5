@@ -1,0 +1,19 @@
+1. Thư mục Cloud
+SmartHome/ gồm Code, Docs, Assets, HR_TaiChinh (chỉ trưởng phòng).
+Channel: #thong-bao, #deadline, #dev, #design, #hoi-dap, #tan-gau.
+Luồng: viết trên máy > tự đồng bộ lên Cloud > lưu Version History > cả nhóm dùng chung 1 bản.
+
+2. Phân quyền
+- trưởng phòng: Editor thư mục phòng mình.
+- thành viên: Editor phòng mình, Viewer phòng khác.
+- người ngoài: Commenter, mời bằng email.
+- tắt quyền tự mời thêm người.
+- trưởng phòng rời nhóm: Transfer Ownership cho người khác trước khi xóa tài khoản.
+
+3. Quy ước chat
+1. không No-Hello: gửi 1 tin đủ việc, hạn, link.
+2. không spam @all, chỉ @ đúng người.
+3. không nhắn đêm khuya, dùng Schedule Send hẹn 8h sáng.
+
+4. Edge case
+bị xóa thì vào Trash để Restore, hoặc dùng Version History, hoặc nhờ admin khôi phục.
